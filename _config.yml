@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Aspiring Cloud Solutions Expert
+email: aniebiet.udosen@yahoo.com
+author: Udosen, Aniebiet.
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,9 +43,11 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Udosen, Aniebiet Effiong. I am a Bachelor of Science degree holder in Animal and Environmental Biology, from the University of Port Harcourt, Rivers State, Nigeria. Shortly before my graduation, during my industrial training days in the university, I nurtured the desire to build a career path in Health, Environment and Safety(HSE). I went ahead to acquire the neccessary certifications that helped to boost this career path, and i enjoyed working in that capacity for as long as it lasted.
+
+Fast-forward to this day, a lot of things in the system have changed globally and which has also helped change my views and perspectives about 'career switch'. The covid pandemic became a real eye-opener in helping me see that there is more certainty in the 'Tech-world' than anyhere else. So after becoming a victim of 'redundancy' in my previous workplace, i have decided to channel all my energy and focus to acquiring a tech-skill that will sustain me through the end of times. 
+
+I recently found out about 'Tech Expert Academy' and the lots of chances, opportunities and hope they offer to people. I am very much interested in becoming an expert in "Cloud Solutions". I sincerely want to give it my best shot, and with this career path choice, I believe the sky is my starting point. I really look forward to applying myself to all the trainings, coachings and exposures I will be given in "Tech Expert Academy". In the end, I want to be able to profer 'Cloud Solutions' to the tech world at large. I really look forward to this great transition in my career, if given the opportunity.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
